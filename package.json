@@ -1,0 +1,8 @@
+{
+  "name": "takatrack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TakaTrack: personal money manager (PWA) with username/password accounts",
+  "engines": { "node": ">=18" },
+  "scripts": { "dev": "vercel dev" }
+}
